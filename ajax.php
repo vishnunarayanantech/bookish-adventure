@@ -6,6 +6,6 @@ if($_POST['user'])
     echo (json_encode($test)); die;
 }
 
-//test for update
+//final update
 
 ?>
